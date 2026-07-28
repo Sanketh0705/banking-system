@@ -22,18 +22,6 @@ user-friendly interface.
 | Deployment | PythonAnywhere |
 | Version Control | Git & GitHub |
 
-# Project
-banking-system/
-│
-├── accounts/
-├── transactions/
-├── banking_system/
-├── templates/
-├── core/
-├── db.sqlite3
-├── manage.py
-└── requirements.txt
-
 # Installation & Setup
 1. Clone Repository:-
 git clone https://github.com/Sanketh0705/banking-system.git
