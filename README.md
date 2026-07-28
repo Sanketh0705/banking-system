@@ -22,38 +22,17 @@ user-friendly interface.
 | Deployment | PythonAnywhere |
 | Version Control | Git & GitHub |
 
-# Project Structure
-
+# Project
 banking-system/
-
+│
 ├── accounts/
-│ ├── models.py
-│ ├── views.py
-│ ├── urls.py
-│ └── templates/
-│
 ├── transactions/
-│ ├── models.py
-│ ├── views.py
-│ └── urls.py
-│
 ├── banking_system/
-│ ├── settings.py
-│ ├── urls.py
-│ ├── wsgi.py
-│ └── asgi.py
-│
-├── static/
-│ ├── css/
-│ ├── js/
-│ └── images/
-│
 ├── templates/
-│
+├── core/
+├── db.sqlite3
 ├── manage.py
-├── requirements.txt
-└── README.md
-
+└── requirements.txt
 
 # Installation & Setup
 1. Clone Repository:-
