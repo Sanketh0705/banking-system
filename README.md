@@ -40,34 +40,34 @@ http://127.0.0.1:8000/
 # Security Features
 
 The project implements:
-Django built-in authentication
-Password hashing
-CSRF protection
-Secure sessions
-Form validation
-User authorization
+Django built-in authentication,
+Password hashing,
+CSRF protection,
+Secure sessions,
+Form validation,
+User authorization.
 
 # Deployment
 The project is deployed using:PythonAnywhere
 
 Deployment process:
 
-Upload project to server
-Create virtual environment
-Install dependencies
-Configure WSGI application
-Configure static files
-Run migrations
-Reload web application
+Upload project to server,
+Create virtual environment,
+Install dependencies,
+Configure WSGI application,
+Configure static files,
+Run migrations,
+Reload web application.
 
 # Testing
 
-User authentication
-Account creation
-Transactions
-Database operations
-Admin functionality
-Deployment environment
+User authentication,
+Account creation,
+Transactions,
+Database operations,
+Admin functionality,
+Deployment environment.
 
 # Requirements:-
 
