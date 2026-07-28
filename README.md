@@ -37,11 +37,21 @@ python manage.py createsuperuser
 python manage.py runserver
 http://127.0.0.1:8000/
 
-
+API / URL Endpoints
+Method	URL	Purpose
+GET	/	Home page
+POST	/login/	User login
+POST	/register/	User registration
+GET	/account/	Account details
+POST	/deposit/	Deposit money
+POST	/withdraw/	Withdraw money
+POST	/transfer/	Transfer funds
+GET	/transactions/	Transaction history
+GET	/admin/	Admin panel
 # Requirements:-
-Django
-SQLite
-Pillow
-python-dateutil
-celery
-django-celery-beat
+Django,
+SQLite,
+Pillow,
+python-dateutil,
+celery,
+django-celery-beat.
