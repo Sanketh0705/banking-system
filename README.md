@@ -37,18 +37,40 @@ python manage.py createsuperuser
 python manage.py runserver
 http://127.0.0.1:8000/
 
-API / URL Endpoints
-Method	URL	Purpose
-GET	/	Home page
-POST	/login/	User login
-POST	/register/	User registration
-GET	/account/	Account details
-POST	/deposit/	Deposit money
-POST	/withdraw/	Withdraw money
-POST	/transfer/	Transfer funds
-GET	/transactions/	Transaction history
-GET	/admin/	Admin panel
+# Security Features
+
+The project implements:
+Django built-in authentication
+Password hashing
+CSRF protection
+Secure sessions
+Form validation
+User authorization
+
+# Deployment
+The project is deployed using:PythonAnywhere
+
+Deployment process:
+
+Upload project to server
+Create virtual environment
+Install dependencies
+Configure WSGI application
+Configure static files
+Run migrations
+Reload web application
+
+# Testing
+
+User authentication
+Account creation
+Transactions
+Database operations
+Admin functionality
+Deployment environment
+
 # Requirements:-
+
 Django,
 SQLite,
 Pillow,
