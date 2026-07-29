@@ -10,8 +10,8 @@ user-friendly interface.
 
 ## Live Demo:-https://sankethd.pythonanywhere.com/
 ## Login Details
-       User Name:-John@gmail.com
-       Password:-John@1234
+       User Name:-sr@gmail.com
+       Password:- Shiva@1234
 # Tech Stack
 
 | Layer | Technology |
