@@ -9,7 +9,7 @@ transactions, and securely track their banking activities through a simple and
 user-friendly interface.
 
 ## Live Demo:-https://sankethd.pythonanywhere.com/
-##Login Details
+## Login Details
        User Name:-John@gmail.com
        Password:-John@1234
 # Tech Stack
